@@ -1,0 +1,48 @@
+* {
+    font-family: 'Lato', sans-serif;
+}
+a {
+    text-decoration: none;
+}
+a:hover{
+    color: #fcbc62 !important;
+    text-decoration: underline;
+}
+.font-brown {
+    color: #5e4c26 !important;
+}
+
+.font-brown:hover{
+    color: #372204 !important;
+}
+
+.brown {
+    color : #5e4c26 !important;
+}
+
+.jumbotron{
+    background-image: url("img/img2.jpg");
+    padding-top: 40vh; 
+    background-size: cover;
+    background-position: center center;
+    height: 100vh; 
+}
+
+.box {
+    border: 6px solid #5e4c26;
+    padding: 5px 0px; 
+}
+.box h2 {
+    font-family: 'Lato', sans-serif;
+    color: #5e4c26;
+    font-weight: 900;
+}
+
+#about .title {
+    text-decoration: underline;
+} 
+
+#portofolio {
+    background-color: #76643D;
+    color: #ffffff;
+}
